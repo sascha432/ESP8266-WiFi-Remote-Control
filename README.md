@@ -23,7 +23,7 @@ Alternativly an IoT firmware is available with Web interface, MQTT and Home Assi
 
 [EasyEDA](https://easyeda.com/sascha23095123423/iot_4ch_remote)
 
-![Schematics Thumbnail](Schematic_IoT_4_button_WiFi_Remote_Control_4_button_WiFi_remote_control_20200223151726.png)
+![Schematics Thumbnail](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/schematics/Schematic_IoT_4_button_WiFi_Remote_Control_4_button_WiFi_remote_control_20200223151726.png)
 [Schematics](https://github.com/sascha432/ESP8266-WiFi-Remote-Control/blob/master/schematics/Schematic_IoT_4_button_WiFi_Remote_Control_4_button_WiFi_remote_control_20200223151726.svg)
 
 ## Some images
