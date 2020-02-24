@@ -15,7 +15,7 @@
 - Short press, long press, repeat
 - 2 button combo - hold one button, second button - short press, long press, repeat
 - Configurable long press and repeat time
-- Hold button 4, long press >7s button 1-3 - disable auto sleep, reset device, restore factory settings
+- Hold button 4 > 7 seconds, button 1-3 - disable auto sleep, reset device, restore factory settings
 - Switch to disconnect the battery - device can still be used when USB powered
 - Auto sleep timer 1 - 255 seconds
 - Auto wake up to report battery state
@@ -44,6 +44,8 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 ## Some images
 
 ![Remote Control PCB Rev1.1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote_control_pcb_rev1.1.jpg)
+
+![First Prototype](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0125.JPG)
 
 ## 3D printable enclosure
 
