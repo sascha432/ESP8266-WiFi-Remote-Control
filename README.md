@@ -19,7 +19,7 @@ Alternativly an IoT firmware is available with Web interface, MQTT and Home Assi
 
 ![Remote Control](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote2.jpg)
 
-![Home Assistant](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/hass.jpg)
+![Home Assistant](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/hass2.jpg)
 
 ## Schematics
 
