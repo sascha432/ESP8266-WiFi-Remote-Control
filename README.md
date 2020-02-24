@@ -24,6 +24,8 @@
 
 Any Arduino sketch is supported. The basic functionality can be implemented with a few dozends lines of code.
 
+A serial debug header with update functionality is included.
+
 Alternativly the KFC Firmware is available with Web interface, MQTT and Home Assistant integration, OTA updates etc...
 
 [KFC Firmware @ Github](https://github.com/sascha432/esp8266-kfc-fw)
@@ -43,9 +45,11 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ## Some images
 
-![Remote Control PCB Rev1.1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote_control_pcb_rev1.1.jpg)
+![Remote control PCB Rev1.1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote_control_pcb_rev1.1.jpg)
 
-![First Prototype](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0125.JPG)
+![First prototype](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0125.JPG)
+
+![Serial debug header](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/serial_debug.jpg)
 
 ## 3D printable enclosure
 
