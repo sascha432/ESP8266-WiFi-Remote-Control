@@ -2,12 +2,12 @@
 
 ## Features
 
-<15µA stand-by current / up to 4 years stand-by time with a 500mAh LiPo - or 1 year stand-by, used 10-20 times per day
-integrated USB charger
-optional battery protection (<17µA total)
-4 LED indicators (Charging, charging finished, button pressed, MCU controlled LED)
-Buffered buttons and no noticeable delay when waking up from deep sleep using quick connect
-Battery charging and discharging curves
+- <15µA stand-by current / up to 4 years stand-by time with a 500mAh LiPo - or 1 year stand-by, used 10-20 times per day
+- integrated USB charger
+- optional battery protection (<17µA total)
+- 4 LED indicators (Charging, charging finished, button pressed, MCU controlled LED)
+- Buffered buttons and no noticeable delay when waking up from deep sleep using quick connect
+- Battery charging and discharging curves
 
 ## Firmware
 
