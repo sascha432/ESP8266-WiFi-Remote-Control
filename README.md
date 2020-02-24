@@ -17,7 +17,7 @@ Alternativly an IoT firmware is available with Web interface, MQTT and Home Assi
 
 [KFC Firmware @ Github](https://github.com/sascha432/esp8266-kfc-fw)
 
-![Remote Control](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote.jpg)
+![Remote Control](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote2.jpg)
 
 ![Home Assistant](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/hass.jpg)
 
