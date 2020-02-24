@@ -53,4 +53,8 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ![Housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/housing.jpg)
 
-Coming soon...
+[STL housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing.stl)
+
+[STL housing with labels](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_labeled.stl)
+
+[STL cover](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_cover.stl)
