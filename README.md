@@ -2,8 +2,8 @@
 
 ## Features
 
-- <15µA stand-by current / up to 4 years stand-by time with a 500mAh LiPo - or 1 year stand-by, used 10-20 times per day
-- integrated USB charger
+- <15µA stand-by current / up to 4 years stand-by time - or 1 year stand-by, used 10-20 times per day
+- integrated 1A USB charger
 - optional battery protection (<17µA total)
 - 4 LED indicators (Charging, charging finished, button pressed, MCU controlled LED)
 - Buffered buttons and no noticeable delay when waking up from deep sleep using quick connect
@@ -11,11 +11,15 @@
 
 ## Firmware
 
-Any Arduino sketch is supported. The basic functionality can be implemented with a few dozends of lines.
+Any Arduino sketch is supported. The basic functionality can be implemented with a few dozends lines of code.
 
 Alternativly an IoT firmware is available with Web interface, MQTT and Home Assistant integration.
 
 [KFC Firmware @ Github](https://github.com/sascha432/esp8266-kfc-fw)
+
+![Remote Control](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote.jpg)
+
+![Home Assistant](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/hass.jpg)
 
 ## Schematics
 
