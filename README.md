@@ -51,6 +51,8 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ![Serial debug header](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/serial_debug.jpg)
 
+![HUE wall mount](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/hue_wall_mount.jpg)
+
 ## 3D printable enclosure
 
 33.33x88.88x14.0mm, 2 parts, ~11gram, 4 screws, 0.15mm layer height recommended
