@@ -62,3 +62,9 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 [STL housing with labels](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_labeled.stl)
 
 [STL cover](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_cover.stl)
+
+Cover that fits to the HUE wall mount and space for a metal plate for the magnets
+
+[STL cover hue mount](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/hue_cover.stl)
+
+[STL hue mount adapter](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/hue_mount.stl)
