@@ -47,7 +47,7 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ![Remote control PCB Rev1.1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote_control_pcb_rev1.1.jpg)
 
-![Latest version](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0472.JPG)
+![Latest version](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/new_housing.jpg)
 
 ![First prototype](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0125.JPG)
 
@@ -57,15 +57,25 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ## 3D printable enclosure
 
-33.33x88.88x18.0mm, 2 parts, ~11gram, 4 screws, 0.16mm layer height recommended
-
-Updated version for PLA:
+33.33x88.88x18.0mm, 2 parts, ~11gram, 4 screws, 0.16mm layer height, support with increased Z-distance to remove it easily
 
 ![Housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/housing.jpg)
 
 [STL housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing.stl)
 
 [STL cover](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_cover.stl)
+
+Version with labels for dual color print
+
+[STL housing labelled](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_labelled.stl)
+
+[STL labels](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_labels.stl)
+
+For transparent filament
+
+[STL cover clear](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_cover_clear.stl)
+
+[STL housing clear](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_clear.stl)
 
 Cover that fits to the HUE wall mount and space for a metal plate for the magnets
 
