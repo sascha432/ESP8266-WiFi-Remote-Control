@@ -47,6 +47,8 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ![Remote control PCB Rev1.1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/remote_control_pcb_rev1.1.jpg)
 
+![Latest version](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0472.JPG)
+
 ![First prototype](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/IMG_0125.JPG)
 
 ![Serial debug header](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/serial_debug.jpg)
@@ -55,13 +57,13 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ## 3D printable enclosure
 
-33.33x88.88x14.0mm, 2 parts, ~11gram, 4 screws, 0.15mm layer height recommended
+33.33x88.88x18.0mm, 2 parts, ~11gram, 4 screws, 0.16mm layer height recommended
+
+Updated version for PLA:
 
 ![Housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/housing.jpg)
 
 [STL housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing.stl)
-
-[STL housing with labels](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_labeled.stl)
 
 [STL cover](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_cover.stl)
 
@@ -69,4 +71,4 @@ Cover that fits to the HUE wall mount and space for a metal plate for the magnet
 
 [STL cover hue mount](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/hue_cover.stl)
 
-[STL hue mount adapter](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/hue_mount.stl)
+[STL hue mount alignment](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/hue_mount.stl)
