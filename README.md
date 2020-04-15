@@ -41,6 +41,7 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 [EasyEDA](https://easyeda.com/sascha23095123423/iot_4ch_remote)
 
 ![Schematics Thumbnail](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/schematics/Schematic_IoT_4_button_WiFi_Remote_Control_4_button_WiFi_remote_control_20200223151726.png)
+
 [Schematics](https://github.com/sascha432/ESP8266-WiFi-Remote-Control/blob/master/schematics/Schematic_IoT_4_button_WiFi_Remote_Control_4_button_WiFi_remote_control_20200223151726.svg)
 
 ## Some images
@@ -57,19 +58,21 @@ Alternativly the KFC Firmware is available with Web interface, MQTT and Home Ass
 
 ## 3D printable enclosure
 
-33.33x88.88x18.0mm, 2 parts, ~11gram, 4 screws, 0.16mm layer height, support with increased Z-distance to remove it easily
+33.33x88.88x14.4mm, 2 parts, ~11gram, 4 screws, 0.16mm layer height, support with increased Z-distance to remove it easily
 
 ![Housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/images/housing.jpg)
+
+[STL Files](./stl/)
 
 [STL housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing.stl)
 
 [STL cover](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_cover.stl)
 
-Version with labels for dual color print
+Dual color with labels
 
-[STL housing labelled](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_labelled.stl)
+[STL dual color part 1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_dual_color_part1.stl)
 
-[STL labels](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_labels.stl)
+[STL dual color part 2](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/remote_control_housing_dual_color_part2.stl)
 
 For transparent filament
 
